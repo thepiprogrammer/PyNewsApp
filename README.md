@@ -1,4 +1,4 @@
 # PyNewsApp
-A news app programmed in python
+A news command line app programmed in python
 
 (only in initial stage, not ready to be run yet)
