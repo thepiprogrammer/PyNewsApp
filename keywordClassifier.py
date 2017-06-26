@@ -47,5 +47,5 @@ def find_keyword(test_string = 'This is a random sentence to check frequency'):
 		return 1
 		return 0
 
-	test_word_ba_list.sort(sort_func, keyword=lambda)
+	test_word_ba_list.sort(sort_func)
 	return test_word_ba_list[:2]
