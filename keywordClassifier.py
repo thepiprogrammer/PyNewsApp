@@ -44,8 +44,10 @@ def find_keyword(test_string = 'This is a random sentence to check frequency'):
 		if a[1] > b[1]:
 			return -1
 		elif a[1] < b[1]:
-		return 1
+			return 1
 		return 0
 
 	test_word_ba_list.sort(sort_func)
 	return test_word_ba_list[:2]
+
+print(find_keyword())

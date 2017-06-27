@@ -1,6 +1,5 @@
-import json
-from pprint import pprint
-from urllib.request import urlopen
+# -*- coding: utf-8 -*-
+
 from functions import *
 print("Exit code = 0")
 x = 1
@@ -14,4 +13,6 @@ while x != 0:
 		thankyou()
 	else:
 		invalid()
+
+		
 #webscraping not implemented yet

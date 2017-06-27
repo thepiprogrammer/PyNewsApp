@@ -39,10 +39,21 @@ def newsApi_API():
 def further_read_newsApi(data):
 	resp2 = int(input("Which one? "))-1
 	s = data['articles'][resp2]
+	url = s['url']
+	html = urlopen(url).read()
+	
+	#correction begins here
+
+	description = str(html).split("meta property=\"bt:body\" content=", 1)[1].split("\">", 1)[0].encode().decode()
+	escapes = ''.join([chr(char) for char in range(1, 32)])
+	description = description.translate(None, escapes)
+	
+	#correction ends here
+
 	print("\nTitle: {}\n\
 		Author: {}\n\
 		Description: {}\n\n\
-		To read more, go to {} \n".format(s['title'], s['author'], s['description'], s['url']))
+		To read more, go to {} \n".format(s['title'], s['author'], description, s['url']))
 
 def invalid():
 	print()

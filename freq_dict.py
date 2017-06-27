@@ -14,7 +14,7 @@ def make_dict():
 
 	for key in freq2:
 		try:
-			if freq1[key] < 10:
+			if freq1[key] < 5:
 				myList.append(key)
 		except KeyError:
 			myList.append(key)
