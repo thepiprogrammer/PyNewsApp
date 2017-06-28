@@ -1,87 +1,87 @@
 {
     "articles": [
         {
-            "author": "Matthew Hughes",
-            "description": "I know this isn't Instagram, but fuck it. I'm writing an article about what I had for lunch.\r\n\r\nIf you haven't tuned out already, don't worry. There's a payoff. Earlier today, I attended ...",
-            "publishedAt": "2017-06-27T23:58:48Z",
-            "title": "Lunch gets seriously weird when an AI decides what\u2019s on the menu",
-            "url": "https://thenextweb.com/artificial-intelligence/2017/06/27/lunch-gets-seriously-weird-when-an-ai-decides-whats-on-the-menu/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/DSC_0017.jpg"
+            "author": "Jennifer Steinhauer",
+            "description": "By assuming that conservatives and moderates would come together to repeal the Affordable Care Act, Senator Mitch McConnell seems to have miscalculated.",
+            "publishedAt": "2017-06-28T20:25:36Z",
+            "title": "McConnell\u2019s Reputation as a Master Tactician Takes a Hit",
+            "url": "https://www.nytimes.com/2017/06/27/us/politics/mitch-mcconnell-health-care-repeal.html",
+            "urlToImage": "https://static01.nyt.com/images/2017/06/28/us/28DC-assess-1/28DC-assess-1-facebookJumbo-v2.jpg"
         },
         {
-            "author": "Tristan Greene",
-            "description": "Ransomware is terrifying for businesses, entire companies could fall without access to important corporate files. It's no picnic for individuals either; dependence on smart devices ...",
-            "publishedAt": "2017-06-27T23:21:54Z",
-            "title": "Cyberghost CEO: Assume everything online is public until further notice",
-            "url": "https://thenextweb.com/insider/2017/06/27/cyberghost-ceo-assume-everything-online-is-public-until-further-notice/",
-            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2016/03/malware-virus-expoit-vulnerability.jpg"
+            "author": "",
+            "description": "Airlines and airports that do not comply with the new requirements could face repercussions, including a full ban on all personal electronics on board flights, even in cargo, fines and possible loss of their permission to fly to the U.S.",
+            "publishedAt": "2017-06-28T09:02:00Z",
+            "title": "DHS announces enhanced security measures for all flights to U.S. but won\u2019t expand laptop ban",
+            "url": "https://www.washingtonpost.com/local/trafficandcommuting/dhs-officials-announce-enhanced-security-measures-for-all-flights-to-the-us/2017/06/28/e8023cac-5c14-11e7-9fc6-c7ef4bc58d13_story.html",
+            "urlToImage": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/06/28/Development-Transportation/Images/AFP_Q1589.jpg?t=20170517"
         },
         {
-            "author": "Rachel Kaser",
-            "description": "The Girl Scouts are partnering with Palo Alto Networks security to help train the next generation of cybersecurity experts. Starting in September 2018, the Scouts will offer the first ...",
-            "publishedAt": "2017-06-27T23:06:23Z",
-            "title": "Meet your new cybersecurity experts \u2014 the Girl Scouts",
-            "url": "https://thenextweb.com/insider/2017/06/27/meet-new-cybersecurity-experts-girl-scouts/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/Girl-Scouts-logo.jpg"
+            "author": "https://www.facebook.com/CleveWootson",
+            "description": "\u201cOh my goodness,\u201d a man says as he flicks on the car's lights. \u201cFreedom!\u201d",
+            "publishedAt": "2017-06-28T09:15:00Z",
+            "title": "Why one man keeps ramming his car into Ten Commandments statues on government property",
+            "url": "https://www.washingtonpost.com/news/acts-of-faith/wp/2017/06/28/why-one-man-keeps-ramming-his-car-into-ten-commandments-statues-on-government-property/",
+            "urlToImage": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2017-06-28/AP/Ten_Commandments_Arkansas_10125-6b95b.jpg?t=20170517"
         },
         {
-            "author": "Bryan Clark",
-            "description": "The National Security Agency (NSA) began using a hacking tool called EternalBlue more than five years ago. During that time, the agency discovered its unparalleled ability to breach ...",
-            "publishedAt": "2017-06-27T23:00:51Z",
-            "title": "NSA knew about the vulnerability exploited by NotPetya for over 5 years",
-            "url": "https://thenextweb.com/security/2017/06/27/nsa-knew-about-the-vulnerability-exploited-by-notpetya-for-over-5-years/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/9549874922_e5fb9682c7_k.jpg"
+            "author": "",
+            "description": "It's official. Fox News has signed Rep. Jason Chaffetz (R-Utah) as a contributor, effective one day after he leaves Congress",
+            "publishedAt": null,
+            "title": "Fox News signs outgoing GOP congressman Jason Chaffetz as contributor",
+            "url": "http://www.cbsnews.com/news/fox-news-signs-outgoing-gop-congressman-jason-chaffetz-as-contributor/",
+            "urlToImage": "http://cbsnews1.cbsistatic.com/hub/i/2017/04/20/2f5a8fca-2356-44cd-be49-05848340b77f/ap-17109561468854.jpg"
         },
         {
-            "author": "Napier Lopez",
-            "description": "We\u2019ve come a long way since Microsoft first introduced the Surface and pioneered the 2-in-1 category way back in 2012. Since then we\u2019ve had a plethora of clones and variations, and last year\u2019s Samsung TabPro S was one of the better ones. Now the company is at it again with the all-new (and much better \u2026",
-            "publishedAt": "2017-06-27T20:45:37Z",
-            "title": "Samsung Galaxy Book Review: A formidable Surface competitor with one huge flaw",
-            "url": "https://thenextweb.com/reviews/2017/06/27/samsung-galaxy-book-a-formidable-surface-competitor-with-one-infuriating-flaw/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/P6270975.jpg"
+            "author": null,
+            "description": "MonaLisa Perez tells police boyfriend Pedro Ruiz had been trying to convince her to make the video \"for a while\"",
+            "publishedAt": "2017-06-28T20:18:00Z",
+            "title": "Pregnant 19-Year-Old Fatally Shoots Boyfriend in YouTube Stunt Gone Wrong",
+            "url": "http://www.rollingstone.com/culture/news/pregnant-19-year-old-fatally-shoots-boyfriend-in-youtube-vid-w490266",
+            "urlToImage": "http://img.wennermedia.com/social/monalisa-perez-cf3ce873-d5a3-4035-91a1-a004451e2aaa.jpg"
         },
         {
-            "author": "Rachel Kaser",
-            "description": "The last few days have been exciting and confusing for alien enthusiasts. A viral video claimed to have evidence that NASA would release new information about life beyond planet Earth. ...",
-            "publishedAt": "2017-06-27T21:07:38Z",
-            "title": "No, NASA isn\u2019t about to announce it found aliens",
-            "url": "https://thenextweb.com/space/2017/06/27/no-nasa-isnt-announce-found-aliens/",
-            "urlToImage": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2011/11/et-aliens.jpg"
+            "author": "Allan Smith",
+            "description": "President Donald Trump's controversial...",
+            "publishedAt": "2017-06-28T19:52:01Z",
+            "title": "Homeland Security: 'We expect implementation' of Trump's travel ban to begin Thursday",
+            "url": "http://www.businessinsider.com/homeland-security-trump-travel-ban-to-begin-thursday-2017-6",
+            "urlToImage": "http://static3.businessinsider.com/image/5954082aa3630f950f8b58ee-1190-625/homeland-security-we-expect-implementation-of-trumps-travel-ban-to-begin-thursday.jpg"
         },
         {
-            "author": "Bryan Clark",
-            "description": "Following its acquisition by Verizon, Yahoo today rolled out the stellar rebuild of its Mail offering to 225 million active monthly users. The update brings a fresh design that pushes ...",
-            "publishedAt": "2017-06-27T20:47:26Z",
-            "title": "Yahoo Mail\u2019s redesign is a fresh coat of paint on a burnt-down house",
-            "url": "https://thenextweb.com/insider/2017/06/27/yahoo-mails-redesign-is-a-fresh-coat-of-paint-on-a-burnt-down-house/",
-            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/yahoo-mail.png"
+            "author": "https://www.facebook.com/josh.partlow1",
+            "description": "Some suspect the brazen swoop over the Supreme Court building was cooked up by the government as a pretext for more crackdowns.",
+            "publishedAt": "2017-06-28T08:15:00Z",
+            "title": "Amid Venezuela\u2019s chaos, protesters ask: Was helicopter \u2018attack\u2019 rebellion or ruse?",
+            "url": "https://www.washingtonpost.com/world/amid-venezuelas-chaos-protesters-ask-was-helicopter-attack-rebellion-or-ruse/2017/06/28/82d27e44-5c02-11e7-a9f6-7c3296387341_story.html",
+            "urlToImage": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/06/28/Foreign/Images/APTOPIX_Venezuela_Crisis_21315-d4f68-4965.jpg?t=20170517"
         },
         {
-            "author": "Napier Lopez",
-            "description": "Facebook just hit 2 billion\u00a0monthly active users. Geez.\r\n\r\nLook, we all know Facebook is massive and growing, but that figure is still remarkable. It was at 1.94 billion as of March, ...",
-            "publishedAt": "2017-06-27T20:28:30Z",
-            "title": "Facebook reaches 2 billion user milestone",
-            "url": "https://thenextweb.com/facebook/2017/06/27/facebook-reaches-2-billion-user-milestone/",
-            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/02/Facebook_Alert.png"
+            "author": "Chris Cillizza, CNN Editor-at-large",
+            "description": "There's a Time magazine cover photo featuring Donald Trump hanging in at least five of his golf clubs. The only problem, according to the Washington Post's David Fahrenthold, is that no such cover exists. As in, Trump (or someone close to him) created the cover out of whole cloth.",
+            "publishedAt": "2017-06-28T17:34:58Z",
+            "title": "Faking a Time magazine cover is the most Trump thing ever",
+            "url": "http://www.cnn.com/2017/06/28/politics/trump-time-magazine/index.html",
+            "urlToImage": "http://i2.cdn.cnn.com/cnnnext/dam/assets/170627200707-trump-time-mag-super-tease.jpg"
         },
         {
-            "author": "Napier Lopez",
-            "description": "While I'm someone who actually appreciates targeted advertising, there's no denying that Facebook's ads can be a little... uncanny. For better or for worse, they're about to get a whole ...",
-            "publishedAt": "2017-06-27T19:56:49Z",
-            "title": "If you thought Facebook ads were creepy before, we\u2019ve got some bad news",
-            "url": "https://thenextweb.com/facebook/2017/06/27/if-you-thought-facebook-ads-were-creepy-before-weve-got-some-bad-news-for-you/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/image_uploaded_from_ios.jpg"
+            "author": "Christopher Mele",
+            "description": "Mr. Trump, speaking to the Irish prime minister, said of the reporter, \u201cShe has a nice smile on her face so I bet she treats you well.\u201d",
+            "publishedAt": "2017-06-28T18:26:16Z",
+            "title": "Trump Interrupts Call to Compliment Female Reporter\u2019s \u2018Nice Smile\u2019",
+            "url": "https://www.nytimes.com/2017/06/28/us/trump-flirt-irish-reporter.html",
+            "urlToImage": "https://static01.nyt.com/images/2017/06/28/us/29xp-reporter/29xp-reporter-facebookJumbo.png"
         },
         {
-            "author": "TNW Deals",
-            "description": "You never know what you may need to know. Business and innovation is traveling at warp speed and no matter the industry, new technologies and new strategies are always ready to explode ...",
-            "publishedAt": "2017-06-27T17:33:22Z",
-            "title": "Get access to over 1,000 tech training courses for life, for under $80",
-            "url": "https://thenextweb.com/offers/2017/06/27/get-access-1000-tech-training-courses-life-80/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/oad4S3J.jpg"
+            "author": "Eric Levenson, CNN",
+            "description": "Michael McCarthy was sentenced Wednesday to life in prison with parole eligibility in 20 years for the murder of Bella Bond, the 2-year-old girl whose body was found in a trash bag near Boston two years ago.",
+            "publishedAt": "2017-06-28T17:04:20Z",
+            "title": "Man gets life for murder of toddler found in trash bag",
+            "url": "http://www.cnn.com/2017/06/28/us/bella-bond-sentencing/index.html",
+            "urlToImage": "http://i2.cdn.cnn.com/cnnnext/dam/assets/150918145746-baby-doe-bella-bond-identified-harlow-vo-nr-00010204-super-tease.jpg"
         }
     ],
-    "sortBy": "latest",
-    "source": "the-next-web",
+    "sortBy": "top",
+    "source": "google-news",
     "status": "ok"
 }

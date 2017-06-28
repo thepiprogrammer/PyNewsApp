@@ -1,6 +1,6 @@
 import json
 from urllib.request import urlopen
-url = "https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=631086356f124f4d82bd059ea5fccc88" 
+url = "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=631086356f124f4d82bd059ea5fccc88" 
 response = urlopen(url)
 data = json.loads(response.read())
 with open("jsondata.txt", 'w') as outfile:

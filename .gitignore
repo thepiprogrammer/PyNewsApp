@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#API keys
+apikey.py
+
+#unnecessary pyc and image files
+*.pyc
+image.jpg

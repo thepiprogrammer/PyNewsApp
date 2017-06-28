@@ -1,4 +1,4 @@
-__all__ = ['sources_list', 'newsApi_API', 'further_read_newsApi', 'invalid', 'thankyou', 'notready']
+__all__ = ['sources_list', 'newsApi_API', 'further_read_theNextWeb', 'invalid', 'thankyou', 'notready']
 
 #functions
 
@@ -8,17 +8,23 @@ from urllib.request import urlopen
 import binascii
 from image_retriever import return_image
 import re 
+from apikey import key
+
+apiKey = key()
+
+keys = {'1': "https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey={}".format(apiKey)
+, '2': "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey={}".format(apiKey)}
 
 def sources_list():
 	print("Possible news sources:\n\
-	\t1: NewsApi.org\n\
-	\t2: aa\n\
+	\t1: The Next Web\n\
+	\t2: Google News\n\
 	\t0: Exit\n")
 	x = int(input("Enter your choice: "))
 	return x
 
-def newsApi_API():
-	url = "https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=631086356f124f4d82bd059ea5fccc88"
+def newsApi_API(x):
+	url = keys[str(x)]
 	print()
 	json_string = urlopen(url).read()
 
@@ -35,11 +41,11 @@ def newsApi_API():
 	while (resp1 == "y" or resp1 == "Y"):
 		resp1 = input("Would you like to read more of any of these articles? (y/n) ")
 		if resp1 == "y" or resp1 == "Y":
-			further_read_newsApi(data)
+			further_read_theNextWeb(data)
 		else:
-			print("Exiting newsApi... \n")
+			print("Exiting The Next Web... \n")
 
-def further_read_newsApi(data):
+def further_read_theNextWeb(data):
 	resp2 = int(input("Which one? "))-1
 	s = data['articles'][resp2]
 	url = s['url']
@@ -49,7 +55,7 @@ def further_read_newsApi(data):
 
 	#string_lst = ['\\n', '\\r', '\\xc0', '\\xc1', 'sc2']
 	description = str(html).split("meta property=\"bt:body\" content=", 1)[1].split("\">", 1)[0]
-	description = description.replace("\\r\\n\\r\\n", ' ').replace("\\r\\n", ' ').replace("\\\'", "\'").replace("\\xc2", ' ').replace("\\xc0", ' ')
+	description = description.replace("\\r\\n\\r\\n", ' ').replace("\\r\\n", ' ').replace("\\\'", "\'").replace("\\xc2", ' ').replace("\\xc0", ' ').replace("\\t", ' ').replace("\\xa0", ' ')
 
 	#description = re.sub(r"(?=("+'|'.join(string_lst)+r"))", ' ', description)
 
