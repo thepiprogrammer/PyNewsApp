@@ -1,84 +1,84 @@
 {
     "articles": [
         {
-            "author": "TNW Deals",
-            "description": "Ask any art pro...finding a stockpile of quality vector graphics to incorporate into your own projects is worth its weight in gold. They\u2019re high quality, they\u2019re versatile, and ...",
-            "publishedAt": "2017-06-25T17:33:17Z",
-            "title": "Get over 1.1 million graphics at your fingertips \u2014 for only $31",
-            "url": "https://thenextweb.com/offers/2017/06/25/get-1-1-million-graphics-fingertips-31/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/6M9S14j.jpg"
-        },
-        {
-            "author": "TNW Deals",
-            "description": "When engineers and mathematicians need to get down to some hardcore computer modeling and data visualization, MATLAB is one of the prime programming languages and environments of choice. ...",
-            "publishedAt": "2017-06-24T17:33:37Z",
-            "title": "Learn the art of manipulating data with this serious MATLAB training for only $27",
-            "url": "https://thenextweb.com/offers/2017/06/24/learn-art-manipulating-data-serious-matlab-training-27/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/V35KI3R.jpeg"
-        },
-        {
-            "author": "Rachel Kaser",
-            "description": "This week, a Seattle police officer chose to talk about the death of a pregnant woman at the hands of his fellow officers ... while livestreaming a video game.\r\n\r\nOn June 18th, officers ...",
-            "publishedAt": "2017-06-24T01:42:31Z",
-            "title": "Tone-deaf cop addresses real-life shooting while playing video games",
-            "url": "https://thenextweb.com/insider/2017/06/24/tone-deaf-cop-addresses-real-life-shooting-playing-video-games/",
-            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/Destiny-Screen.jpg"
-        },
-        {
             "author": "Matthew Hughes",
-            "description": "The Central Intelligence Agency is America's best-known intelligence agency, but it's still shrouded in secrecy. Thanks to Wikileaks, we've learned a lot about its internal workings, ...",
-            "publishedAt": "2017-06-24T00:11:06Z",
-            "title": "I trained a neural network to create CIA malware codenames",
-            "url": "https://thenextweb.com/artificial-intelligence/2017/06/24/i-trained-a-neural-network-to-create-cia-malware-codenames/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/Untitled-design.jpg"
+            "description": "I know this isn't Instagram, but fuck it. I'm writing an article about what I had for lunch.\r\n\r\nIf you haven't tuned out already, don't worry. There's a payoff. Earlier today, I attended ...",
+            "publishedAt": "2017-06-27T23:58:48Z",
+            "title": "Lunch gets seriously weird when an AI decides what\u2019s on the menu",
+            "url": "https://thenextweb.com/artificial-intelligence/2017/06/27/lunch-gets-seriously-weird-when-an-ai-decides-whats-on-the-menu/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/DSC_0017.jpg"
         },
         {
-            "author": "Bryan Clark",
-            "description": "From the moment I saw it, I was instantly enamored with TRVL. The brainchild of Dutch entrepreneur Jochem Wijnands, TRVL is a sort of mashup that turns each user into a travel agent ...",
-            "publishedAt": "2017-06-23T23:18:20Z",
-            "title": "TRVL is the best travel platform you\u2019re not using (yet)",
-            "url": "https://thenextweb.com/apps/2017/06/23/trvl-best-travel-platform-youre-not-using-yet/",
-            "urlToImage": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/TRVL-Desktop-Traveler-Welcome.jpg"
+            "author": "Tristan Greene",
+            "description": "Ransomware is terrifying for businesses, entire companies could fall without access to important corporate files. It's no picnic for individuals either; dependence on smart devices ...",
+            "publishedAt": "2017-06-27T23:21:54Z",
+            "title": "Cyberghost CEO: Assume everything online is public until further notice",
+            "url": "https://thenextweb.com/insider/2017/06/27/cyberghost-ceo-assume-everything-online-is-public-until-further-notice/",
+            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2016/03/malware-virus-expoit-vulnerability.jpg"
         },
         {
             "author": "Rachel Kaser",
-            "description": "In case you were lucky enough to miss Bethesda's tepid showing at E3 2017, blockbuster RPG\u00a0The Elder Scrolls V: Skyrim is getting yet another re-release. This time, it's coming out, ...",
-            "publishedAt": "2017-06-23T22:54:49Z",
-            "title": "Bethesda is bleeding gamers dry, and I\u2019ve had enough",
-            "url": "https://thenextweb.com/gaming/2017/06/23/bethesda-bleeding-gamers-dry-ive-enough/",
-            "urlToImage": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/Skyrim-Header.jpg"
-        },
-        {
-            "author": "Napier Lopez",
-            "description": "When was the last time you bought a laptop \u00a0that lasted as long as advertised, especially if its a PC? Probably not any time recently.\r\n\r\nProblem is, manufacturers continue to insist ...",
-            "publishedAt": "2017-06-23T22:47:48Z",
-            "title": "It\u2019s time to stop using video playback to measure battery life",
-            "url": "https://thenextweb.com/opinion/2017/06/23/time-stop-using-video-playback-measure-battery-life/",
-            "urlToImage": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/battery-1.jpg"
+            "description": "The Girl Scouts are partnering with Palo Alto Networks security to help train the next generation of cybersecurity experts. Starting in September 2018, the Scouts will offer the first ...",
+            "publishedAt": "2017-06-27T23:06:23Z",
+            "title": "Meet your new cybersecurity experts \u2014 the Girl Scouts",
+            "url": "https://thenextweb.com/insider/2017/06/27/meet-new-cybersecurity-experts-girl-scouts/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/Girl-Scouts-logo.jpg"
         },
         {
             "author": "Bryan Clark",
-            "description": "The Legend of Zelda was the pinnacle of 1980s console games. Its sprawling levels spanned multiple regions and included desert, wetlands, and tree-lined forests. For the time, it was ...",
-            "publishedAt": "2017-06-23T21:30:57Z",
-            "title": "This 3D-printed map from the original Legend of Zelda was worth every penny",
-            "url": "https://thenextweb.com/gaming/2017/06/23/this-3d-printed-map-from-the-original-legend-of-zelda-was-worth-every-penny/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/zelda-map-3d.png"
+            "description": "The National Security Agency (NSA) began using a hacking tool called EternalBlue more than five years ago. During that time, the agency discovered its unparalleled ability to breach ...",
+            "publishedAt": "2017-06-27T23:00:51Z",
+            "title": "NSA knew about the vulnerability exploited by NotPetya for over 5 years",
+            "url": "https://thenextweb.com/security/2017/06/27/nsa-knew-about-the-vulnerability-exploited-by-notpetya-for-over-5-years/",
+            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/9549874922_e5fb9682c7_k.jpg"
         },
         {
             "author": "Napier Lopez",
-            "description": "Instagram is rethinking the way you share on the platform. According to a report by The Verge, the company is testing a feature that allows you to share photos with just a limited group ...",
-            "publishedAt": "2017-06-23T20:29:05Z",
-            "title": "Instagram is trying to get a little more personal with a favorite friends list",
-            "url": "https://thenextweb.com/apps/2017/06/23/instagram-trying-get-little-personal-favorite-friends-list/",
-            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/04/instagram-logo.png"
+            "description": "We\u2019ve come a long way since Microsoft first introduced the Surface and pioneered the 2-in-1 category way back in 2012. Since then we\u2019ve had a plethora of clones and variations, and last year\u2019s Samsung TabPro S was one of the better ones. Now the company is at it again with the all-new (and much better \u2026",
+            "publishedAt": "2017-06-27T20:45:37Z",
+            "title": "Samsung Galaxy Book Review: A formidable Surface competitor with one huge flaw",
+            "url": "https://thenextweb.com/reviews/2017/06/27/samsung-galaxy-book-a-formidable-surface-competitor-with-one-infuriating-flaw/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/P6270975.jpg"
         },
         {
-            "author": "George Beall",
-            "description": "As a salesperson, you have one thing on your mind: closing as many deals as possible. Regardless of how much time you put into the sales process, it all comes down to the \u201cfinal push.\u201d ...",
-            "publishedAt": "2017-06-23T20:08:53Z",
-            "title": "Avoid these mistakes when closing a big business deal",
-            "url": "https://thenextweb.com/contributors/2017/06/23/avoid-these-mistakes-when-closing-a-big-business-deal/",
-            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/thinking-pano_24945.jpg"
+            "author": "Rachel Kaser",
+            "description": "The last few days have been exciting and confusing for alien enthusiasts. A viral video claimed to have evidence that NASA would release new information about life beyond planet Earth. ...",
+            "publishedAt": "2017-06-27T21:07:38Z",
+            "title": "No, NASA isn\u2019t about to announce it found aliens",
+            "url": "https://thenextweb.com/space/2017/06/27/no-nasa-isnt-announce-found-aliens/",
+            "urlToImage": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2011/11/et-aliens.jpg"
+        },
+        {
+            "author": "Bryan Clark",
+            "description": "Following its acquisition by Verizon, Yahoo today rolled out the stellar rebuild of its Mail offering to 225 million active monthly users. The update brings a fresh design that pushes ...",
+            "publishedAt": "2017-06-27T20:47:26Z",
+            "title": "Yahoo Mail\u2019s redesign is a fresh coat of paint on a burnt-down house",
+            "url": "https://thenextweb.com/insider/2017/06/27/yahoo-mails-redesign-is-a-fresh-coat-of-paint-on-a-burnt-down-house/",
+            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/yahoo-mail.png"
+        },
+        {
+            "author": "Napier Lopez",
+            "description": "Facebook just hit 2 billion\u00a0monthly active users. Geez.\r\n\r\nLook, we all know Facebook is massive and growing, but that figure is still remarkable. It was at 1.94 billion as of March, ...",
+            "publishedAt": "2017-06-27T20:28:30Z",
+            "title": "Facebook reaches 2 billion user milestone",
+            "url": "https://thenextweb.com/facebook/2017/06/27/facebook-reaches-2-billion-user-milestone/",
+            "urlToImage": "https://cdn2.tnwcdn.com/wp-content/blogs.dir/1/files/2017/02/Facebook_Alert.png"
+        },
+        {
+            "author": "Napier Lopez",
+            "description": "While I'm someone who actually appreciates targeted advertising, there's no denying that Facebook's ads can be a little... uncanny. For better or for worse, they're about to get a whole ...",
+            "publishedAt": "2017-06-27T19:56:49Z",
+            "title": "If you thought Facebook ads were creepy before, we\u2019ve got some bad news",
+            "url": "https://thenextweb.com/facebook/2017/06/27/if-you-thought-facebook-ads-were-creepy-before-weve-got-some-bad-news-for-you/",
+            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/image_uploaded_from_ios.jpg"
+        },
+        {
+            "author": "TNW Deals",
+            "description": "You never know what you may need to know. Business and innovation is traveling at warp speed and no matter the industry, new technologies and new strategies are always ready to explode ...",
+            "publishedAt": "2017-06-27T17:33:22Z",
+            "title": "Get access to over 1,000 tech training courses for life, for under $80",
+            "url": "https://thenextweb.com/offers/2017/06/27/get-access-1000-tech-training-courses-life-80/",
+            "urlToImage": "https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2017/06/oad4S3J.jpg"
         }
     ],
     "sortBy": "latest",

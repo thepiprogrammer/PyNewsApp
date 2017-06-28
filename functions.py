@@ -5,7 +5,8 @@ __all__ = ['sources_list', 'newsApi_API', 'further_read_newsApi', 'invalid', 'th
 import json
 from pprint import pprint
 from urllib.request import urlopen
-
+import binascii
+from image_retriever import return_image
 def sources_list():
 	print("Possible news sources:\n\
 	\t1: NewsApi.org\n\
@@ -44,16 +45,19 @@ def further_read_newsApi(data):
 	
 	#correction begins here
 
-	description = str(html).split("meta property=\"bt:body\" content=", 1)[1].split("\">", 1)[0].encode().decode()
-	escapes = ''.join([chr(char) for char in range(1, 32)])
-	description = description.translate(None, escapes)
-	
-	#correction ends here
+	description = str(html).split("meta property=\"bt:body\" content=", 1)[1].split("\">", 1)[0]
+	#escapes = ''.join([chr(char) for char in range(1, 32)])
+	#description = description.translate(None, escapes)
 
+	#correction ends here
+	print(image(s['urlToImage']))
 	print("\nTitle: {}\n\
 		Author: {}\n\
 		Description: {}\n\n\
 		To read more, go to {} \n".format(s['title'], s['author'], description, s['url']))
+
+def image(url):
+	return return_image(url, 0.05, 5)
 
 def invalid():
 	print()
