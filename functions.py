@@ -7,6 +7,8 @@ from pprint import pprint
 from urllib.request import urlopen
 import binascii
 from image_retriever import return_image
+import re 
+
 def sources_list():
 	print("Possible news sources:\n\
 	\t1: NewsApi.org\n\
@@ -45,14 +47,19 @@ def further_read_newsApi(data):
 	
 	#correction begins here
 
+	#string_lst = ['\\n', '\\r', '\\xc0', '\\xc1', 'sc2']
 	description = str(html).split("meta property=\"bt:body\" content=", 1)[1].split("\">", 1)[0]
+	description = description.replace("\\r\\n\\r\\n", ' ').replace("\\r\\n", ' ').replace("\\\'", "\'").replace("\\xc2", ' ').replace("\\xc0", ' ')
+
+	#description = re.sub(r"(?=("+'|'.join(string_lst)+r"))", ' ', description)
+
 	#escapes = ''.join([chr(char) for char in range(1, 32)])
 	#description = description.translate(None, escapes)
 
 	#correction ends here
 	print(image(s['urlToImage']))
-	print("\nTitle: {}\n\
-		Author: {}\n\
+	print("\nTitle: {}\n\n\
+		Author: {}\n\n\
 		Description: {}\n\n\
 		To read more, go to {} \n".format(s['title'], s['author'], description, s['url']))
 
