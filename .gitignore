@@ -105,4 +105,4 @@ apikey.py
 
 #unnecessary pyc and image files
 *.pyc
-image.jpg
+./image.jpg
